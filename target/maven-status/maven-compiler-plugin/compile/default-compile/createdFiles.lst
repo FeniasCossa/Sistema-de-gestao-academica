@@ -1,0 +1,8 @@
+com\mz\ujc\sga\demo\controller\HomeController.class
+com\mz\ujc\sga\demo\model\enums\MaritalStatus.class
+com\mz\ujc\sga\demo\model\enums\Gender.class
+com\mz\ujc\sga\demo\SqaUjcApplication.class
+com\mz\ujc\sga\demo\controller\candidature\CandidatureController.class
+com\mz\ujc\sga\demo\model\AbstractEntity.class
+com\mz\ujc\sga\demo\model\Person.class
+com\mz\ujc\sga\demo\model\auth\User.class
